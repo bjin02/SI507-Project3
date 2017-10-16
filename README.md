@@ -76,6 +76,7 @@
 #### This part is probably the most challenging of the project, because it affects other parts of the project and requires design decisions! We suggest making a careful plan using GitHub issues or writing it out in English before beginning it, and thinking about Part 3 as well as you do so.
 
 * Define a class `NationalSite` that accepts a BeautifulSoup object as input to its constructor, representing 1 National Park / National Lakeshore / etc (e.g. [what you see here](https://www.dropbox.com/s/zngd317gqwan9p7/Screenshot%202017-09-30%2016.32.49.png?dl=0) or [what you see here](https://www.dropbox.com/s/nngi1q95otic2f1/Screenshot%202017-09-30%2016.34.57.png?dl=0))
+class National
 
 * A `NationalSite` instance should have the following instance variables:
 
